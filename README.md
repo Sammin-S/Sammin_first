@@ -11,4 +11,4 @@
 
 > " ㄱ..구...글입니다 "  
 
-[![깡](https://img.youtube.com/vi/xqFvYsy4wE4/0.jpg)](https://www.youtube.com/watch?v=xqFvYsy4wE4)  
+[![깡](https://img.youtube.com/vi/xqFvYsy4wE4/0.jpg)](https://www.youtube.com/watch?v=xqFvYsy4wE4 "깡")  
